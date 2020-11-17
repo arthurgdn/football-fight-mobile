@@ -1,2 +1,2 @@
-# mern-boilerplate
-Boilerplate pour la stack MongoDB, Express, React, Node
+# football-fight-mobile
+Application mobile pour le jeu Football Duel disponible sur le Play Store
